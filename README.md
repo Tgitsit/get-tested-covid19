@@ -25,7 +25,10 @@ Please see our contributor documentation: https://docs.google.com/document/d/1ja
 - Zach Boldyga: Software Engineer
 - Nathan Boldyga: Content curation
 - Antony Oparin: Technical advice / guidance
+- Tejal Shah: UX Designer
+- Lindsay George: UX Deisgner
 - Any many more... We'll do our best to upload all of these soon!
+
 
 ## Project Maintainers (approvals)
 - Tarryn Marcus
